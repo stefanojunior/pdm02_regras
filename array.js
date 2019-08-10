@@ -51,3 +51,6 @@ let numeros = [1,2,3,4,5,6,7,8,9,10];
 const resultado = numeros.map(Math.sqrt) // metodo para matematica com raiz quadrada
 console.log("Utilizando a Raiz Quadrada");
 console.log(resultado);
+
+
+
