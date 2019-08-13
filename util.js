@@ -19,7 +19,7 @@ console.log(frase);
 // convertendo para minusculo
 let fraseM = "HOJE O DIA ESTA BONITO!";
 console.log("Utilizando toLocaleLowerCase");
-console.log(fraseM.toLocaleLowerCase());
+console.log(fraseM.toLowerCase());
 
 // convertendo para maiusculo
 let fraseMi = "hoje o dia esta bonito!!";
